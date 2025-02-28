@@ -30,21 +30,21 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
    *   Guia de Bienvenida.
     *  Imagen y botón con animación.
     
-        ![Pantalla de Bienvenida](https://imgur.com/a/og1RXyE)
+        ![Pantalla de Bienvenida](assets/cap_colleccionable.png)
 
  *   **Guia de Personaje:**
    *   En este apartado de la guia exploraras todos los personajes disponibles em el universo de Spyro.
    *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada personaje.
    *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de Personajes](https://imgur.com/z8uCwX6.png)
+        ![Guia de Personajes](assets/cap_colleccionable.png)
     
  *    **Guia de los Mundos:**
     *  En este apartado de la guia exploraras todos los mundos disponibles em el universo de Spyro.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Mundos](https://imgur.com/OqB3MoK.png)
+        ![Guia de los Mundos](assets/cap_colleccionable.png)
 
 *    **Guia de los Coleccionables:**
    *  En este apartado de la guia exploraras todos los coleccionables disponibles em el universo de Spyro.
@@ -58,7 +58,7 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón Finalizar guia podrás seguir con un resumen de la guía.
       
-    ![Guia acerca de](https://imgur.com/tNDTPz1.png)
+    ![Guia acerca de](assets/cap_colleccionable.png)
 
     
 *   **Guía Resumen**
@@ -69,5 +69,5 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
     *   Accede a una sección de "Ayuda" con preguntas frecuentes.
     *   Cierra sesión de forma segura.
       
-    ![Guía Resumen](https://imgur.com/tNDTPz1.png)
+    ![Guía Resumen](assets/cap_colleccionable.png)
         
