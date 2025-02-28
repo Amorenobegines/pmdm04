@@ -30,35 +30,35 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
    *   Guia de Bienvenida.
     *  Imagen y botón con animación.
     
-        ![Pantalla de Bienvenida](assets/cap_colleccionable.png)
+        ![Pantalla de Bienvenida](app/src/main/assets/guia_bienvenida.png)
 
  *   **Guia de Personaje:**
    *   En este apartado de la guia exploraras todos los personajes disponibles em el universo de Spyro.
    *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada personaje.
    *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de Personajes](cap_colleccionable.png)
+        ![Guia de Personajes](app/src/main/assets/guia_personaje.png)
     
  *    **Guia de los Mundos:**
     *  En este apartado de la guia exploraras todos los mundos disponibles em el universo de Spyro.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Mundos](assets/cap_colleccionable.png)
+        ![Guia de los Mundos](app/src/main/assets/cap_colleccionable.png)
 
 *    **Guia de los Coleccionables:**
    *  En este apartado de la guia exploraras todos los coleccionables disponibles em el universo de Spyro.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Coleccionables](app/src/main/assets/cap_acerca_de.png)
+        ![Guia de los Coleccionables](app/src/main/assets/cap_colleccionable.png)
     
 *   **Guia acerca de:**
     *  En este apartado de la guia exploraras la información acerca de la aplicación.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón Finalizar guia podrás seguir con un resumen de la guía.
       
-    ![Guia acerca de](assets/cap_colleccionable.png)
+    ![Guia acerca de](app/src/main/assets/cap_acerca_de.png)
 
     
 *   **Guía Resumen**
@@ -69,5 +69,5 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
     *   Accede a una sección de "Ayuda" con preguntas frecuentes.
     *   Cierra sesión de forma segura.
       
-    ![Guía Resumen](assets/cap_colleccionable.png)
+    ![Guía Resumen](app/src/main/assets/guia_resumen.png)
         
