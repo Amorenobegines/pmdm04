@@ -37,7 +37,7 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
    *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada personaje.
    *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de Personajes](https://imgur.com/z8uCwX6.png)
+        ![Guia de Personajes]([https://imgur.com/z8uCwX6.png](https://imgur.com/0hmdqgD))
     
  *    **Guia de los Mundos:**
     *  En este apartado de la guia exploraras todos los mundos disponibles em el universo de Spyro.
