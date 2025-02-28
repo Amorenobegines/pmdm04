@@ -30,7 +30,7 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
    *   Guia de Bienvenida.
     *  Imagen y botón con animación.
     
-        ![Pantalla de Bienvenida](https://imgur.com/a/og1RXyE.png)
+        ![Pantalla de Bienvenida](https://imgur.com/a/og1RXyE)
 
  *   **Guia de Personaje:**
    *   En este apartado de la guia exploraras todos los personajes disponibles em el universo de Spyro.
