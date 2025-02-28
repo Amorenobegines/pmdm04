@@ -51,7 +51,7 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Coleccionables](https://imgur.com/OqB3MoK.png)
+        ![Guia de los Coleccionables](C:\Users\Alicia\AndroidStudioProjects\SpyroTheDragon\app\src\main\assets\cap_colleccionable)
     
 *   **Guia acerca de:**
     *  En este apartado de la guia exploraras la información acerca de la aplicación.
