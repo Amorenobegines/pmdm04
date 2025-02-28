@@ -44,7 +44,7 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Mundos]([https://imgur.com/OqB3MoK.png](https://imgur.com/a/ysX8TD8))
+        ![Guia de los Mundos]([https://imgur.com/OqB3MoK.png])
 
 *    **Guia de los Coleccionables:**
    *  En este apartado de la guia exploraras todos los coleccionables disponibles em el universo de Spyro.
