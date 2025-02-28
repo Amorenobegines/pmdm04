@@ -4,6 +4,33 @@
     <string name="characters">Personajes</string>
     <string name="collectibles">Coleccionables</string>
     <string name="title_about">Acerca de</string>
-    <string name="text_about">Aplicación desarrollada por \n <b>Lindsay Barrero Martínez.</b></string>
+    <string name="text_about">Aplicación desarrollada por \n <b>Alicia Moreno Begines.</b></string>
     <string name="accept">Aceptar</string>
+
+    <!-- Strings de Bienvenida -->
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="BienvenidoTxt">Bienvenido</string>
+    <string name="welcome_info">Prepárate para explorar el mundo mágico de esta aplicación inspirada en: </string>
+    <string name="welcome_info1">Aquí aprenderás a navegar por pestañas llenas de dragones, mundos fantásticos y montones de tesoros brillates. \n\n¿Listo para empezar? \n\nPulsa "Comenzar"  y deja que Spuro te lleve volando a través de esta guía interactiva.</string>
+    <string name="btnComenzar">Comenzar</string>
+
+    <!-- Resumen de la guía -->
+    <string name="guide_resume">Resumen de la guía</string>
+    <string name="image">Imagen</string>
+    <string name="guide_resume_completado">¡Has completado los siguientes pasos en la aplicación de Spyro!\n\n💎 Botón para mostrar los diferentes personajes.\n\n💎 Botón para mostrar los diferentes mundos.\n\n💎 Botón para mostrar los diferentes coleccionables.\n\n💎 Menú de información sobre la aplicación.\n\n¡Ya sabes cómo utilizar la aplicación! Pulsa comenzar para empezar a disfrutar.</string>
+
+    <!-- Strings de la guía -->
+    <string name="guide_inf_siguiente">\n\nPulsa el botón siguiente para continuar.</string>
+    <string name="guide_inf_pers">Aquí podrás explorar a todos los personajes del mundo de Spyro.</string>
+    <string name="guide_inf_mundo">En este apartado podrás explorar todos los mundos disponibles en el universo de Spyro.</string>
+    <string name="guide_inf_collec">Aquí podrás conocer y consultar cada unos de los coleccionables que pueden aparecer en el mundo de Spyro.</string>
+    <string name="guide_inf_acerca">Pulsando este botón podrás acceder a la información acerca de la aplicación.</string>
+    <string name="saltar_guia">Saltar guia</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="guide_fin">Finalizar guía</string>
+
+
+    <string name="guide_combined">%1$s %2$s</string>
+    <string name="easter_egg">Easter Egg activado</string>
+
 </resources>
