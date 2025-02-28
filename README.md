@@ -62,12 +62,10 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
 
     
 *   **Guía Resumen**
-    *   Ve el usuario logueado  
-    *   Cambia el idioma de la aplicación para una experiencia personalizada.
-    *   Elimina todos los Pokémon capturados de tu lista.
-    *   Consulta información sobre la aplicación en la sección "Acerca de".
-    *   Accede a una sección de "Ayuda" con preguntas frecuentes.
-    *   Cierra sesión de forma segura.
+    *   Resumen de la guía.
+    *   Se enumeran los pasos completados por el usuario y se muestra el botón para comenzar a usar la aplicación 
+    *   Cierra de la guía.
+    *   Empieza a usar la app.
       
     ![Guía Resumen](app/src/main/assets/guia_resumen.png)
         
