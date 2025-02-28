@@ -30,35 +30,35 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
    *   Guia de Bienvenida.
     *  Imagen y botón con animación.
     
-        ![Pantalla de Bienvenida]([https://imgur.com/z8uCwX6.png](https://imgur.com/a/ysX8TD8))
+        ![Pantalla de Bienvenida](https://imgur.com/z8uCwX6.png)
 
  *   **Guia de Personaje:**
    *   En este apartado de la guia exploraras todos los personajes disponibles em el universo de Spyro.
    *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada personaje.
    *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de Personajes]([[https://imgur.com/z8uCwX6.png](https://imgur.com/a/ysX8TD8)](https://imgur.com/a/eJy34zL))
+        ![Guia de Personajes](https://imgur.com/z8uCwX6.png)
     
  *    **Guia de los Mundos:**
     *  En este apartado de la guia exploraras todos los mundos disponibles em el universo de Spyro.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Mundos]([https://imgur.com/OqB3MoK.png])
+        ![Guia de los Mundos](https://imgur.com/OqB3MoK.png)
 
 *    **Guia de los Coleccionables:**
    *  En este apartado de la guia exploraras todos los coleccionables disponibles em el universo de Spyro.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón siguiente podrás seguir con la guía.
     
-        ![Guia de los Coleccionables]([[https://imgur.com/OqB3MoK.png](https://imgur.com/a/ysX8TD8)](https://imgur.com/a/w4jMhT0))
+        ![Guia de los Coleccionables](https://imgur.com/OqB3MoK.png)
     
 *   **Guia acerca de:**
     *  En este apartado de la guia exploraras la información acerca de la aplicación.
     *   Al darle al botón saltar podrás visualiza la imagen, el nombre de cada mundos.
     *    Al darle al botón Finalizar guia podrás seguir con un resumen de la guía.
       
-    ![Guia acerca de]([https://imgur.com/tNDTPz1.png](https://imgur.com/a/L35g2V4))
+    ![Guia acerca de](https://imgur.com/tNDTPz1.png)
 
     
 *   **Guía Resumen**
@@ -69,5 +69,5 @@ Finalmente, el uso de la clase Canvas junto a Paint para la creación de la anim
     *   Accede a una sección de "Ayuda" con preguntas frecuentes.
     *   Cierra sesión de forma segura.
       
-    ![Guía Resumen]([[https://imgur.com/tNDTPz1.png](https://imgur.com/a/L35g2V4)](https://imgur.com/a/og1RXyE))
+    ![Guía Resumen](https://imgur.com/tNDTPz1.png)
         
