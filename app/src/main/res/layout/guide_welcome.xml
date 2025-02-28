@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/guideWelcome"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/purple_trasparent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/welcome"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/bienvenido"
+        android:textSize="38sp" />
+
+    <TextView
+        android:id="@+id/info"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_info" />
+
+    <ImageView
+        android:id="@+id/logo_spyro"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:contentDescription="@string/image"
+        android:background="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/mainText"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_info1" />
+
+    <android.widget.Button
+        android:id="@+id/statuButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/estatua_comenzar"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+<!--
+    <ImageView
+        android:id="@+id/statuView"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:contentDescription="@string/image"
+        android:src="@drawable/estatua_comenzar"/>
+-->
+
+</LinearLayout>

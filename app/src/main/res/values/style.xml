@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="guide" parent="Theme.SpyroTheDragon">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">start</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <style name="guideButton" parent="guide">
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:fontFamily">@font/worksans</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

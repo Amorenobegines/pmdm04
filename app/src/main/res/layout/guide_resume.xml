@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/guide_resume"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/intro"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/guide_resume"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/logoSpyro"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:contentDescription="@string/image"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/mainText"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/guide_resume_completado" />
+
+    <ImageView
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:contentDescription="@string/image"
+        android:src="@drawable/spyro" />
+
+    <ImageView
+        android:id="@+id/diamondImage"
+        style="@style/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:clickable="true"
+        android:contentDescription="@string/btnComenzar"
+        android:focusable="true"
+        android:src="@drawable/gem_comenzar" />
+
+</LinearLayout>
